@@ -8,7 +8,7 @@ fi
 
 # Comprova que el fitxer/directori existeixi
 if [ ! -e "$1" ]; then
-    echo "Error: '$1' does not exist."
+    echo "Error: '$1' no existeix."
     exit 1
 fi
 
