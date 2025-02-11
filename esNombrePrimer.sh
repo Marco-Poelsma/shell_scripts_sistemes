@@ -1,3 +1,4 @@
+#!/bin/bash
 if [ $1 -le 1 ]; then
     echo "No es primer"
     exit 1
