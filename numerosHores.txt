@@ -1,0 +1,12 @@
+1:una
+2:dues
+3:tres
+quatre
+cinc
+sis
+set
+vuit
+nou
+deu
+onze
+dotze
